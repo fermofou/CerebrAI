@@ -1,4 +1,4 @@
-# HackMty-System32
+# CerebrAI
 Created by: 
 - Fernando Morán
 - Sergio González
